@@ -10,7 +10,7 @@ int main(void)
 	int c;
 	int d;
 //jump_here:
-	printf("Enter 4 integers (A,B,C,D) separated by spaces:4 3 5 7\n");
+	printf("Enter 4 integers (A,B,C,D) separated by spaces: \n");
 	scanf_s("%d", &a);
 	scanf_s("%d", &b);
 	scanf_s("%d", &c);
